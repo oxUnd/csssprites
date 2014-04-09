@@ -1,0 +1,5 @@
+.box_x {width: 600px;
+     height: 100px;background-repeat: repeat-x}
+
+.box_x_small {width: 600px;
+    height: 100px;background-repeat: repeat-x}.box_x{background-position:0px 0px}.box_x_small{background-position:0px -247px}.box_x,.box_x_small{background-image: url(./background-x_x.png)}

@@ -1,0 +1,4 @@
+.box_y {width: 400px;
+    height: 200px;background-repeat: repeat-y}
+
+.box_y_small {height: 200px;background-repeat: repeat-y}.box_y{background-position:0px 0px}.box_y_small{background-position:-479px 0px}.box_y,.box_y_small{background-image: url(./background-y_y.png)}

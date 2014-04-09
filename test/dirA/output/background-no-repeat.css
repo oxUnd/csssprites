@@ -1,0 +1,17 @@
+.firefox {width: 256px;
+    height: 256px;
+    display: inline-block;background-repeat: no-repeat;}
+
+.chrome {width: 256px;
+    height: 256px;
+    display: inline-block;background-repeat: no-repeat;}
+
+.facebook {width: 256px;
+    height: 256px;
+    display: inline-block;background-repeat: no-repeat;}
+
+.facebook-right {width: 500px;
+    height: 256px;
+    display: inline-block;background-repeat: no-repeat;}
+
+.big-image {background-repeat: no-repeat;}.firefox{background-position:-201px 0px}.chrome{background-position:-201px -259px}.facebook{background-position:-201px -518px}.facebook-right{background-position:right -518px}.big-image{background-position:0px -777px}.firefox,.chrome,.facebook,.facebook-right,.big-image{background-image: url(./background-no-repeat_z.png)}
